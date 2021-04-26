@@ -1,0 +1,12 @@
+{
+	"dish_menu": [
+		{"dish_name": "Spaghetti", "dish_desc": "Its italian", "dish_rating": "7/10"},
+		{"dish_name": "Fried Rice", "dish_desc": "Its italian", "dish_rating": "7/10"},
+		{"dish_name": "Sushi", "dish_desc": "Its italian", "dish_rating": "7/10"},
+		{"dish_name": "Curry", "dish_desc": "Its italian", "dish_rating": "7/10"},
+		{"dish_name": "Pancakes", "dish_desc": "Its italian", "dish_rating": "7/10"}
+
+
+	]
+
+}
