@@ -5,7 +5,8 @@
 		 	"dish_desc": "A hearty pasta dish consisting of al dente noodles,a meat sauce and meatballs.  The dish is extremely popular with kids and orginated from Italy.",
 		 	"dish_difficulty": "5/10",
 		 	"dish_image": "https://raw.githubusercontent.com/gTran23/JSONProjectsIT315/master/spaghetti_image.jpg",
-			"dish_rating": "7/10"
+			"dish_rating": "7/10",
+			"dish_site": "https://www.foodnetwork.com/recipes/rachael-ray/spaghetti-and-meatballs-recipe-1942620"
 			
 		},
 		{
@@ -13,7 +14,8 @@
 		 	"dish_desc": "A fiery and flavorful rice dish with pork, carrots, peas and green onions.  The dish has an oriental taste and orginated from China.",
 		 	"dish_difficulty": "7/10",
 		 	"dish_image": "https://raw.githubusercontent.com/gTran23/JSONProjectsIT315/master/fried_rice_image.jpg",
-			"dish_rating": "9/10"
+			"dish_rating": "9/10",
+			"dish_site": "https://www.foodnetwork.com/recipes/food-network-kitchen/fried-rice-recipe-2011658"
 			
 		},
 		{
@@ -21,7 +23,8 @@
 		 	"dish_desc": "A dish where its difficulty depends on its complexity.  It makes use of fresh ingredients and is usually accompanied with soy sauce and wasabi for dipping.  The dish originated from Japan.",
 		 	"dish_difficulty": "8/10",
 		 	"dish_image": "https://raw.githubusercontent.com/gTran23/JSONProjectsIT315/master/sushi_image.jpg",
-			"dish_rating": "7.5/10"
+			"dish_rating": "7.5/10",
+			"dish_site": "https://www.foodnetwork.com/recipes/alton-brown/california-roll-recipe-1916375"
 			
 		},
 		{
@@ -29,7 +32,8 @@
 		 	"dish_desc": "A exotic dish that goes well with rice, bread or noodles.  It is often spicy and cooked with chicken, beef or lamb.  The dish orginated from India.",
 		 	"dish_difficulty": "7/10",
 		 	"dish_image": "https://raw.githubusercontent.com/gTran23/JSONProjectsIT315/master/curry_image.jpg",
-			"dish_rating": "8/10"
+			"dish_rating": "8/10",
+			"dish_site": "https://www.foodnetwork.com/recipes/panang-chicken-curry-7112932"
 			
 		},
 		{
@@ -37,7 +41,8 @@
 		 	"dish_desc": "A fun and light breakfast dish that is easy to make and popular with kids.  A variety of different kinds can be made by incorporating fruits, nuts or chocolate.  It is believed that this dish originated from Greece and Rome.",
 		 	"dish_difficulty": "5/10",
 		 	"dish_image": "https://raw.githubusercontent.com/gTran23/JSONProjectsIT315/master/pancakes_image.jpg",
-			"dish_rating": "5/10"
+			"dish_rating": "5/10",
+			"dish_site": "https://www.foodnetwork.com/recipes/food-network-kitchen/fluffy-japanese-pancakes-3686850"
 			
 		}
 
